@@ -4,7 +4,9 @@ Team: Christina Leoni Raphael
 
 <html>
 <head>
-<title> Muskeln <title/>
+<title>
+Muskeln
+<title/>
 <head/>
 <body>
 Da es beim Bodybuilding hauptsächlich um das Muskelwachstum geht, ist es wichtig den Aufbau des Muskels zu verstehen.
