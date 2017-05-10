@@ -15,7 +15,7 @@ Die Muskulatur besteht hauptsächlich aus diesem willkürlichen Muskelgewebe, da
 <h3>Muskeln zuhause trainieren <h3/>
 <h4>Schwingstab:<h4/>
 Manchmal trainieren wir Muskeln, die kennen wir noch nicht einmal, obwohl
-wir auf ihre Arbeit angewiesen sind. Während Hanteln & co. vor allem die oberflächliche
+wir auf ihre Arbeit angewiesen sind. Während Hanteln co. vor allem die oberflächliche
 Muskulatur trainieren, trainiert der Schwingstab besonders die Tiefenmuskulatur. Dazu
 gehören tief liegende Muskelschichten, die z.B. das Bewegungssystem kontrollieren.
 Schwingstäbe helfen, genau diese Muskelregionen zu trainieren: Wenn sich die
@@ -32,7 +32,7 @@ beugt effektiv Beschwerden vor.
 <h4>Hanteln:<h4/>
 Hanteltraining gehört zu den effektivsten und effizientesten Übungen im Muskel-
 Training. Daher gehört ein gutes Kurzhantel-Set schon beinahe zur Grundausstattung
-eines jeden Sportlers.
+eines jeden Sportlers.a er sich dehnt. Strecken wir den Arm ist es umgekehrt - der Trizeps arbeitet als Agonist und der Bizeps als Antagonist. Muskeln wer
 Hanteln sind sehr vielseitig einsetzbar und können für das Training
 unterschiedlichster Muskelgruppen eingesetzt werden – vorwiegend natürlich für die
 Arm-, Schulter- und Brustmuskulatur.
@@ -45,5 +45,5 @@ Muskelkraft zu überwinden gilt. Je stärker man daran zieht, umso schwieriger w
 Phänomen wird „progressiver Widerstand“ oder auch „Widerstandstraining“ genannt.
 Beim Thera-Band findet der Kraftaufbau nahezu linear statt. Das bedeutet, es wird Stück
 für Stück immer ein bisschen schwerer – und das sehr gleichmäßig.
-</body>
-</html> 
+<body/>
+<html/> 
