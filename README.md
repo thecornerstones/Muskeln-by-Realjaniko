@@ -1,4 +1,3 @@
-# Muskeln
 Sport
 Team: Christina Leoni Raphael
 
