@@ -6,6 +6,7 @@ Team: Christina Leoni Raphael
 Muskeln
 </head>
 <body>
+<h3>Definition</h3>
 Da es beim Bodybuilding hauptsächlich um das Muskelwachstum geht, ist es wichtig den Aufbau des Muskels zu verstehen.
 Ein Muskel ist ein kontraktiles Organ. Es kann durch zusammenziehen (Kontraktion) und entspannen (Relaxation) innere und äußere Strukturen des Organismus bewegen, welches die Grundlage der Fortbewegung, der Körpergestaltung und vieler innerer Körperfunktionen des Individuums ist.
 <h3>Agonist und Antagonist</h3>
