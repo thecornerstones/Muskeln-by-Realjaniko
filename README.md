@@ -1,7 +1,4 @@
 <html>
-<td style="text-align:center; width:70px;">center</td>
-Sport
-Team: Christina Leoni Raphael
 <ul id="toc">
 <li><span>Muskel</span>
 <li><span>Definition</span>
@@ -13,11 +10,9 @@ Team: Christina Leoni Raphael
 <li><span>Thera-Band</span>
 </ul>
 
-<head>
-  
+<h2>
 Muskeln
-  
-</head>
+</h2>
 <body>
 <h3>Definition</h3>
 Da es beim Bodybuilding hauptsächlich um das Muskelwachstum geht, ist es wichtig den Aufbau des Muskels zu verstehen.
