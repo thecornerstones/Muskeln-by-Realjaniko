@@ -52,4 +52,4 @@ Phänomen wird „progressiver Widerstand“ oder auch „Widerstandstraining“
 Beim Thera-Band findet der Kraftaufbau nahezu linear statt. Das bedeutet, es wird Stück
 für Stück immer ein bisschen schwerer – und das sehr gleichmäßig.
 </body>
-</html> 
+<html/>
