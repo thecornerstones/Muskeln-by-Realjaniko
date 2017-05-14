@@ -1,18 +1,17 @@
-<!DOCTYPE html>
+<html>
 <td style="text-align:center; width:70px;">center</td>
 Sport
 Team: Christina Leoni Raphael
 <ul id="toc">
-<li><span>Muskel</span> <a href="#">Chapter 1</a></li>
-<li><span>Definition</span> <a href="#">Definition</a></li>
-  <li><span>Agonist udn Antagonist</span> <a href="#">Agonist und Antagonist</a></li>
-<li><span>Muskelarten</span> <a href="#">Muskelarten</a></li>
-<li><span>Muskeln zu Hause Trainieren</span> <a href="#">Muskeln zu Hause Trainieren</a></li>
-<li><span>Schwingstab</span> <a href="#">Chapter 6</a></li>
+<li><span>Muskel</span>
+<li><span>Definition</span>
+  <li><span>Agonist udn Antagonist</span>
+<li><span>Muskelarten</span>
+<li><span>Muskeln zu Hause Trainieren</span>
+<li><span>Schwingstab</span>
+<li><span>Hanteln</span>
+<li><span>Thera-Band</span>
 </ul>
-
-
-
 
 <head>
   
@@ -20,16 +19,6 @@ Muskeln
   
 </head>
 <body>
-  <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aaa;color:#333;background-color:#fff;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aaa;color:#fff;background-color:#f38630;}
-.tg .tg-j2zy{background-color:#FCFBE3;vertical-align:top}
-.tg .tg-k6pi{font-size:12px}
-.tg .tg-yw4l{vertical-align:top}
-.tg .tg-z2zr{background-color:#5e9ca0}
-</style>
-
 <h3>Definition</h3>
 Da es beim Bodybuilding hauptsächlich um das Muskelwachstum geht, ist es wichtig den Aufbau des Muskels zu verstehen.
 Ein Muskel ist ein kontraktiles Organ. Es kann durch zusammenziehen (Kontraktion) und entspannen (Relaxation) innere und äußere Strukturen des Organismus bewegen, welches die Grundlage der Fortbewegung, der Körpergestaltung und vieler innerer Körperfunktionen des Individuums ist.
@@ -74,6 +63,3 @@ Beim Thera-Band findet der Kraftaufbau nahezu linear statt. Das bedeutet, es wir
 für Stück immer ein bisschen schwerer – und das sehr gleichmäßig.
 </body>
 </html>
-
-
-
