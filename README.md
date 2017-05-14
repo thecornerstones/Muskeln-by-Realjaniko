@@ -1,5 +1,5 @@
 <html>
-<ul> id="toc">
+<ul id="toc">
 <li><span>Muskeln</span>
 <li><span>Definition</span>
   <li><span>Agonist und Antagonist</span>
@@ -8,8 +8,6 @@
 <li><span>Schwingstab</span>
 <li><span>Hanteln</span>
 <li><span>Thera-Band</span>
-</ul>
-
 <h2>
 Muskeln
 </h2>
