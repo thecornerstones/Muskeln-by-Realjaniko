@@ -1,14 +1,14 @@
 <html>
 <ul id="toc">
-<li><span>Muskel</span>
+<li><span>Muskeln</span>
 <li><span>Definition</span>
-  <li><span>Agonist udn Antagonist</span>
+  <li><span>Agonist und Antagonist</span>
 <li><span>Muskelarten</span>
 <li><span>Muskeln zu Hause Trainieren</span>
 <li><span>Schwingstab</span>
 <li><span>Hanteln</span>
 <li><span>Thera-Band</span>
-</ul>
+
 
 <h2>
 Muskeln
