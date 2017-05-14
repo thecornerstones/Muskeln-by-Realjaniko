@@ -17,6 +17,7 @@ Muskeln
 Da es beim Bodybuilding hauptsächlich um das Muskelwachstum geht, ist es wichtig den Aufbau des Muskels zu verstehen.
 Ein Muskel ist ein kontraktiles Organ. Es kann durch zusammenziehen (Kontraktion) und entspannen (Relaxation) innere und äußere Strukturen des Organismus bewegen, welches die Grundlage der Fortbewegung, der Körpergestaltung und vieler innerer Körperfunktionen des Individuums ist.
 <h3>Agonist und Antagonist</h3>
+![Alt-Text](https://ibb.co/jesey5)
 <img src="https://ibb.co/jesey5">
 Der Agonist  ist der Beugemuskel. Das heißt er zieht sich zusammen. Ein weiterer Muskel (Streckmuskel) ist für die Gegenbewegung verantwortlich. Dieser Muskel wird Antagonist genannt. Beugen wir unseren Arm, arbeitet der Bizeps also als Agonist, da er sich zusammenzieht. Der Trizeps ist in diesem Fall der Antagonist, da er sich dehnt. Strecken wir den Arm ist es umgekehrt - der Trizeps arbeitet als Agonist und der Bizeps als Antagonist.
 <h3>Muskelarten</h3>
