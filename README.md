@@ -1,7 +1,6 @@
+<!DOCTYPE html>
 Sport
 Team: Christina Leoni Raphael
-
-<html>
 <head>
 Muskeln
 </head>
