@@ -61,6 +61,5 @@ Muskelkraft zu überwinden gilt. Je stärker man daran zieht, umso schwieriger w
 Dieses Phänomen wird „progressiver Widerstand“ oder auch „Widerstandstraining“ genannt.
 Beim Thera-Band findet der Kraftaufbau nahezu linear statt. Das bedeutet, es wird Stück
 für Stück immer ein bisschen schwerer – und das sehr gleichmäßig.
-
 </body>
 <html/>
