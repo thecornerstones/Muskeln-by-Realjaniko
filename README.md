@@ -48,7 +48,7 @@ Hanteltraining wird auch sehr häufig im Gesundheits- und Fitnessbereich sowie i
 Rehabilitation eingesetzt. Durch Variierung der Hantelgewichte lassen diese sich
 flexibel den jeweiligen Trainingsanforderungen anpassen.
 <h2>Thera Band</h2>
-<img src="TheraBand.jpg" width="300" height="190" alt="TheraBand"/> 
+<img src="TheraBand.jpg" width="250" height="190" alt="TheraBand"/> 
 <br>
 Das Prinzip: Das Thera-Band sorgt für Widerstand in vielerlei Übungen, den es mit
 Muskelkraft zu überwinden gilt. Je stärker man daran zieht, umso schwieriger wird’s.
