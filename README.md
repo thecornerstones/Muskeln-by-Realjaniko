@@ -4,7 +4,7 @@
 Muskeln
 </h1>
 <body>
-<iframe> width="560" height="315" src="https://www.youtube.com/embed/WGdNO2x_PWY?vq=hd720" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WGdNO2x_PWY" frameborder="0" allowfullscreen></iframe>
 <h2>Definition</h2>
 Da es beim Bodybuilding hauptsächlich um das Muskelwachstum geht, ist es wichtig den Aufbau des Muskels zu verstehen.
 Ein Muskel ist ein kontraktiles Organ. Es kann durch Zusammenziehen (Kontraktion) und Entspannung (Relaxation) innere und äußere Strukturen des Organismus bewegen, welches die Grundlage der Fortbewegung, der Körpergestaltung und vieler innerer Körperfunktionen des Individuums ist.
