@@ -19,7 +19,7 @@ Muskeln werden in drei verschiedene Arten von Muskelgruppen unterteilt: das glat
 Die Muskulatur besteht hauptsächlich aus diesem willkürlichen Muskelgewebe, das auch Skelettmuskulatur genannt wird. Diese besteht aus vielen Muskelfasern, die wie Röhren dicht aneinander liegen. Sie können bis zu 18 cm lang sein, etwa 1/10 mm dick und können sich bei Kontraktion bis fast um die Hälfte verkürzen. Muskelfasern bestehen aus vielen 100 bis zu 1000 parallel verlaufenden Myofibrillen. Diese sind die eigentlichen kontraktilen Elemente des Muskels, die wiederum aus tausenden von Muskelfilamenten bestehen. Diese Muskelfilamente sind Eiweißstrukturen, die sich abhängig von ihren Proteinbestandteilen in dünne Aktinfilamente oder dicke Myosinfilamente einteilen lassen.
 <h1>Muskeln zuhause trainieren </h1>
 <h2> Schwingstab</h2>
-<img src="schwingstab.jpg" width="300" height="190" alt="schwingstab"/> 
+<img src="schwingstab.jpg" width="250" height="130" alt="schwingstab"/> 
 <br>
 Manchmal trainieren wir Muskeln, die kennen wir noch nicht einmal, obwohl
 wir auf ihre Arbeit angewiesen sind. Während Hanteln und Co. vor allem die oberflächliche
@@ -37,7 +37,7 @@ Je besser unsere Tiefenmuskulatur trainiert ist und je besser die Signalübertra
 funktioniert, umso besser funktioniert unser Bewegungsapparat. Eine gut trainierte Tiefenmuskulatur z.B. im Rücken
 beugt effektiv Beschwerden vor.
 <h2>Hanteln</h2>
-<img src="hanteln.jpg" width="300" height="190" alt="hanteln"/> 
+<img src="hanteln.jpg" width="250" height="130" alt="hanteln"/> 
 <br>
 Hanteltraining gehört zu den effektivsten und effizientesten Übungen im Muskel-Training. Daher gehört ein gutes Kurzhantel-Set schon beinahe zur Grundausstattung
 eines jeden Sportlers da er sich dehnt. Strecken wir den Arm ist es umgekehrt - der Trizeps arbeitet als Agonist und der Bizeps als Antagonist. Muskeln wer
