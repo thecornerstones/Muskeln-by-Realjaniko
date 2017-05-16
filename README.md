@@ -6,7 +6,7 @@ Muskeln
 
 <body>
 
-<iframe> width="560" height="315" src="https://www.youtube.com/embed/WGdNO2x_PWY" frameborder="0" allowfullscreen></iframe>
+<iframe> width="560" height="315" src="https://www.youtube.com/embed/WGdNO2x_PWY?vq=hd720" frameborder="0" allowfullscreen></iframe>
 
 <h2>Definition</h2>
 Da es beim Bodybuilding hauptsächlich um das Muskelwachstum geht, ist es wichtig den Aufbau des Muskels zu verstehen.
